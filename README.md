@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subham Sharma</h1>
 <h3 align="center">A CS student from Nepal</h3>
 
-- 🌱 I’m currently learning **JavaScript,PHP,rest API**
+- 🌱 I’m currently learning **JavaScript, Java, Core Java, Springboot, PHP,rest API**
 
 - 📫 How to reach me **subhampg69@gmail.com**
 
